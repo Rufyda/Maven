@@ -35,7 +35,7 @@ This project focuses on analyzing customer data for a cafe business, with insigh
 
 Watch the video walkthrough of the Maven Cafe Customer Insights Dashboard:
 
-[![Watch the Demo](<img src="https://github.com/user-attachments/assets/68f977cb-5633-44c7-b519-01659f3dd1b0" alt="Dashboard Screenshot" width="600">)
+[![Watch the Demo](https://img.youtube.com/vi/d6HQK52kZYU/0.jpg)](https://www.youtube.com/watch?v=d6HQK52kZYU)
 
 Or view the [**live deployed app**](https://mavencafe2024.streamlit.app/).
 
